@@ -11,7 +11,7 @@ I enjoy working with the **MERN stack**, crafting intuitive user experiences, an
 
 ## 🚀 Projects
 
-### 📚 [StudyNotion]{https://study-notion-main-pink.vercel.app/}
+### 📚 [StudyNotion](https://study-notion-main-pink.vercel.app/)
 *A comprehensive ed-tech platform providing immersive, accessible online learning.*  
 - Frontend developer on a **full-stack MERN** platform.
 - Designed an intuitive interface for students to discover, consume & rate educational content.
@@ -20,7 +20,7 @@ I enjoy working with the **MERN stack**, crafting intuitive user experiences, an
 
 ---
 
-### 🧑‍💻 [Code Reviewer]{https://ai-powered-code-reviewer-8s5r-o5rlg9nrs.vercel.app/}  
+### 🧑‍💻 [Code Reviewer](https://ai-powered-code-reviewer-8s5r-o5rlg9nrs.vercel.app/)  
 *A full-stack application for reviewing code.*  
 - Modern **React (Vite)** frontend with a clean, fast interface.
 - RESTful API backend built with **Node.js & Express**.
@@ -29,7 +29,7 @@ I enjoy working with the **MERN stack**, crafting intuitive user experiences, an
 
 ---
 
-### 🌐 [Personal Portfolio Website]{https://portfolio-neon-eight-j01ruglmgt.vercel.app/}
+### 🌐 [Personal Portfolio Website](https://portfolio-neon-eight-j01ruglmgt.vercel.app/)
 *A modern, responsive portfolio showcasing my skills & achievements.*  
 - Dark mode by default with toggle for light mode.
 - Animated typewriter effect & glowing gradient effects in the hero section.
